@@ -1,25 +1,25 @@
 .pregunta1{
-    background-color: rgb(208, 226, 43);
+    background-color: rgb(228, 159, 12);
 }
 .content-div{
     border: 1px solid rgb(30, 255, 0);
 }
 .pregunta2 {
-    background-color: rgb(216, 4, 39); 
+    background-color: rgb(187, 1, 32); 
 }
 .pregunta3
 {
-    background-color: rgb(0, 238, 255);
+    background-color: rgb(27, 174, 215);
 }
 .pregunta4
 {
-    color: rgb(128, 0, 85);
+    color: rgb(37, 231, 96);
 }
 .pregunta5
 {
-   color: magenta;
+   color: rgb(195, 115, 195);
 }
 .pregunta6
 {
-    color: blue;
+    color: rgb(62, 7, 51);
 }
