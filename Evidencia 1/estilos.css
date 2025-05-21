@@ -1,0 +1,25 @@
+.pregunta1{
+    background-color: rgb(208, 226, 43);
+}
+.content-div{
+    border: 1px solid rgb(30, 255, 0);
+}
+.pregunta2 {
+    background-color: rgb(216, 4, 39); 
+}
+.pregunta3
+{
+    background-color: rgb(0, 238, 255);
+}
+.pregunta4
+{
+    color: rgb(128, 0, 85);
+}
+.pregunta5
+{
+   color: magenta;
+}
+.pregunta6
+{
+    color: blue;
+}
